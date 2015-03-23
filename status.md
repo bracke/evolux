@@ -16,7 +16,7 @@ View detailed status of API implementation and APP implementation in separat dok
 - [ ] Implement remaining gui related SWIs.
 - [ ] Implement Sprite handlings.
 - [ ] Implement remaining OS SWIs
-- 
+
 
 
 
