@@ -11,13 +11,19 @@ View detailed status of API implementation and APP implementation in separat dok
 - [ ] Create basis for SWI implementation, perhaps like riscose/rox.
 - [ ] Implement base icon and windows SWIs.
 - [ ] Implement base Toolbox and Toolbox window modules.
-- [ ] Implement menu and Toolbox menu
-- [ ] Implement drag'n'drop
+- [ ] Implement menu and Toolbox menu.
+- [ ] Implement drag'n'drop.
 - [ ] Implement remaining gui related SWIs.
 - [ ] Implement Sprite handlings.
-- [ ] Implement remaining OS SWIs
+- [ ] Implement Drawfile handling.
+- [ ] Implement remaining OS SWIs.
 
-
-
-
+##Misc
+- [ ] System variable handling and translating.
+- [ ] Create alias for cli commands.
+- [ ] Handle filetypes / mimemap.
+- [ ] Port basic interpreter (Brandy?)
+- [ ] Font handling.
+- [ ] Printing system.
+- [ ] Cnfigure system, perhaps using ConfiX?
 
