@@ -1,6 +1,6 @@
 #Overall status
 
-View detailed status of API implementation and APP implementation in separat dokuments.
+View detailed status of APP implementation in separat dokuments.
 
 ##Main
 - [+] Kernel / System
