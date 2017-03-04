@@ -2,28 +2,60 @@
 
 View detailed status of API implementation and APP implementation in separat dokuments.
 
-##Base
-- [ ] Create bootable SD with buildroot result.
-- [ ] Add fluxbox and other tools to get minable useable system.
-- [ ] Streamline process of creating bootable SD card using script.
+##Main
+- [+] Kernel / System
+- [+] Genode components
+- [ ] Evolux os base components
+- [ ] Toolbox
+- [ ] Evolux os base apps
+- [ ] ZFS
+- [ ] Login
 
-##API
-- [ ] Create basis for SWI implementation, perhaps like riscose/rox.
-- [ ] Implement base icon and windows SWIs.
-- [ ] Implement base Toolbox and Toolbox window modules.
-- [ ] Implement menu and Toolbox menu.
-- [ ] Implement drag'n'drop.
-- [ ] Implement remaining gui related SWIs.
-- [ ] Implement Sprite handlings.
-- [ ] Implement Drawfile handling.
-- [ ] Implement remaining OS SWIs.
+##Genode components
+- [+] Core
+- [+] Liquid framebuffer
+- [+] Nitpicker window manager
+- [+] Layouter
+- [+] Decorator
 
-##Misc
-- [ ] System variable handling and translating.
-- [ ] Create alias for cli commands.
-- [ ] Handle filetypes / mimemap.
-- [ ] Port basic interpreter (Brandy?)
-- [ ] Font handling.
-- [ ] Printing system.
-- [ ] Cnfigure system, perhaps using ConfiX?
+##Evolux os base components
+- [ ] Iconbar
+- [ ] Backdrop
+- [ ] Pinboard
+- [ ] Filer
+- [ ] DragNDrop
+- [ ] Clipboard
+
+##Toolbox
+
+- [ ] Iconbar
+- [ ] Menu
+- [ ] Window
+- [ ] Gadgets
+- [ ] SaveAs
+- [ ] ProgInfo
+- [ ] Font chooser
+- [ ] Color picker
+
+##Evolux os base apps
+
+- [ ] Edit
+- [ ] Viewer
+- [ ] Write
+- [ ] Calc
+- [ ] Browse
+- [ ] Print
+- [ ] Alarm
+- [ ] Play
+
+##ZFS
+
+- [ ] Base
+- [ ] Compression
+- [ ] Encryption
+- [ ] Snapshots
+- [ ] Scan
+- [ ] Raid
+
+
 
